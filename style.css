@@ -1,0 +1,37 @@
+
+.full-img{
+    width:1000px;
+    height: 400px;
+    position: relative;
+}
+
+
+.overlay{
+    width:1000px;
+    height: 400px;
+    position: absolute;
+    top:0;
+    left:0;
+    background-color: rgba(0, 0,0,0);
+}
+.top-img{
+    width:1000px;
+    height: 400px;
+}
+
+.bottom-img{
+    width:200px;
+    height: 100px;
+    float: left;
+}
+
+button{
+    cursor: pointer;
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+.bottom-img{
+    cursor: pointer;
+}
